@@ -1,2 +1,0 @@
-# DTVProject
-Proyecto DTV
